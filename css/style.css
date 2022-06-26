@@ -1,0 +1,12 @@
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&family=Open+Sans:wght@300;400;700&family=Roboto:wght@100;400;700&display=swap');
+
+/* COMPONENTS */
+@import url(components/navbar.css);
+
+/* CUSTOM CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
